@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="134" max="-2" attributes="0"/>
+                      <Component id="btnNuevo" pref="72" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                              <Component id="eti1" min="-2" pref="71" max="-2" attributes="0"/>
+                              <EmptySpace pref="32" max="32767" attributes="0"/>
+                              <Component id="txtNoMedidor" min="-2" pref="86" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Component id="eti7" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="eti6" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="eti5" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="eti4" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="eti3" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="eti2" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="txtLectrurakWhEst1" alignment="0" pref="88" max="32767" attributes="0"/>
+                                  <Component id="txtLectrurakWhEst2" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="txtLectrurakWhEst3" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="txtLectrurakWhEst4" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="txtLectrurakWhEst5" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="txtLectrurakWhEst6" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="eti11" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="txtConsumoEst2" min="-2" pref="73" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" alignment="0" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="eti12" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="txtConsumoEst3" min="-2" pref="81" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="eti13" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="txtConsumoEst4" min="-2" pref="81" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="eti14" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="txtConsumoEst5" min="-2" pref="81" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="btnGuardar" min="-2" pref="73" max="-2" attributes="0"/>
+                                      <Component id="eti15" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="txtConsumoEst6" min="-2" pref="81" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                              <Component id="eti10" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="txtConsumoEst1" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="eti9" max="32767" attributes="0"/>
+                                  <Group type="102" attributes="0">
+                                      <Component id="eti8" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="0" pref="12" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="cmbCiudad" max="32767" attributes="0"/>
+                          <Component id="cmbBarrio" pref="126" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="eti8" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="cmbCiudad" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="cmbBarrio" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+                              <Component id="eti9" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="txtNoMedidor" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="eti1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="eti2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtLectrurakWhEst1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="eti10" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtConsumoEst1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="eti3" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="txtLectrurakWhEst2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="eti11" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtConsumoEst2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="eti5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="eti4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="eti6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtLectrurakWhEst5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="eti7" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtLectrurakWhEst6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="txtLectrurakWhEst3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="eti12" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtConsumoEst3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="eti13" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="txtConsumoEst4" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                              <Component id="txtLectrurakWhEst4" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="eti14" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtConsumoEst5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="eti15" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtConsumoEst6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btnNuevo" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btnGuardar" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="33" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="eti1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No.Medidor"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtNoMedidor">
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="LectrurakWhEst1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="LectrurakWhEst2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="LectrurakWhEst3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="LectrurakWhEst4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="LectrurakWhEst5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="LectrurakWhEst6"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtLectrurakWhEst1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtLectrurakWhEst2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtLectrurakWhEst3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtLectrurakWhEst4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtLectrurakWhEst5">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtLectrurakWhEst6">
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ElijaLaLecturaParaSuCiudad"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="cmbCiudad">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="Barranquilla"/>
+            <StringItem index="1" value="Tolima"/>
+            <StringItem index="2" value="Bogota"/>
+            <StringItem index="3" value="Medellin"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ElijaLaLecturaParaSuBarrio"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="cmbBarrio">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="5">
+            <StringItem index="0" value="Las Nieves"/>
+            <StringItem index="1" value="Santa Ines"/>
+            <StringItem index="2" value="Vista Hermosa"/>
+            <StringItem index="3" value="Costa Hermosa"/>
+            <StringItem index="4" value="Hipodromo"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cmbBarrioActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ConsumoEst1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ConsumoEst2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ConsumoEst3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti13">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ConsumoEst4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti14">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ConsumoEst5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eti15">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ConsumoEst6"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtConsumoEst1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtConsumoEst2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtConsumoEst3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtConsumoEst4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtConsumoEst5">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtConsumoEst6">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnNuevo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nuevo"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnNuevoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnGuardar">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Guardar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnGuardarActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

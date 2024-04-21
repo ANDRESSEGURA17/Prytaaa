@@ -1,0 +1,5 @@
+Medellin::Andres::Segura::::Masculino::2
+Tolima::Andres Felipe::Segura Angulo::::null::2
+Medellin::Andres Felipe::Segura Angulo::18::17/12/2004::Masculino::2
+Medellin::1043678963::LIonel Andres::Messi Cuchitini::35 años::17/12/2004::Masculino::5
+Barranquilla::12332::122ww::adff::12112::12::Femenino::1
